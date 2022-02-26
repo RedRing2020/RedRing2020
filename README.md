@@ -22,7 +22,12 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/RedRing/contributions.svg" />
   </a>
 </p>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redring1979)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RedRing1979&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedRing1979" />
+</a>
 <!--
 **redring1979/redring1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
