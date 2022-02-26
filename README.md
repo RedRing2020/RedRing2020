@@ -27,9 +27,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedRing1979" />
 </a>
-<!--<a href="https://github-profile-summary-cards">
+<br clear="left">
+<a href="https://github-profile-summary-cards">
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedRing1979" />
-</a>-->
+</a>
+<br clear="left">
 <a href="https://github-profile-trophy">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=RedRing1979" />
 </a>
