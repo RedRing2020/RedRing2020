@@ -22,8 +22,11 @@
   </a>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RedRing1979&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedRing1979&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedRing1979" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedRing1979" />
+</a>
+<a href="https://github-profile-summary-cards">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedRing1979" />
 </a>
