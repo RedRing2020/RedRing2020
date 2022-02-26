@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/RedRing?template=classic&config.timezone=Asia%2FTokyo)
+![Metrics](https://metrics.lecoq.io/RedRing1979?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FTokyo)
 
 ![My Profile views](https://komarev.com/ghpvc/?username=RedRing1979)
 [![My twitter](https://img.shields.io/twitter/follow/RedRing1979?label=Twitter&logo=twitter&style=flat)](https://twitter.com/RedRing1979)
