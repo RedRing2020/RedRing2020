@@ -29,8 +29,8 @@
 </a>
 <br clear="left">
 <a href="https://github-profile-summary-cards">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedRing1979" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedRing1979" />
 </a>
 <a href="https://github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=RedRing1979" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RedRing1979" />
 </a>
