@@ -29,7 +29,7 @@
 </a>
 <p><br></p>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedRing1979" />
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedRing1979&theme=default" />
 </a>
 <p><br></p>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
