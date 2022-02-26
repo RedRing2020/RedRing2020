@@ -32,7 +32,4 @@
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedRing1979" />
 </a>
 <p><br></p>
-<a href="https://github-profile-trophy">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=RedRing1979" />
-</a>
-<p><br></p>
+  ![](https://github-profile-trophy.vercel.app/?username=RedRing1979)
