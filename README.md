@@ -28,8 +28,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedRing1979" />
 </a>
 <p><br></p>
-<a href="https://github-profile-summary-cards">
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedRing1979" />
 </a>
 <p><br></p>
-  ![](https://github-profile-trophy.vercel.app/?username=RedRing1979)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=RedRing1979" />
+</a>
+<p><br></p>
