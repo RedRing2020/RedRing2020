@@ -4,7 +4,7 @@
 [![My twitter](https://img.shields.io/twitter/follow/RedRing1979?label=Twitter&logo=twitter&style=flat)](https://twitter.com/RedRing1979)
 [![My github](https://img.shields.io/github/followers/RedRing1979?label=follow&logo=github&style=flat)](https://github.com/RedRing1979)
 [![My reddit](https://img.shields.io/reddit/user-karma/combined/RedRing1979?label=Reddit&logo=reddit&style=flat)](https://www.reddit.com/user/RedRing1979)
-[![My stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/18312637?label=StackOverflow&logo=stack-overflow&style=flat)](https://stackoverflow.com/users/18312637/redring)
+[![My stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/18312637?label=StackOverflow&logo=stack-overflow&style=flat)](https://ja.stackoverflow.com/users/51688/redring)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/RedRing/posts.svg)](http://qiita.com/RedRing)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/RedRing/contributions.svg)](http://qiita.com/RedRing)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/RedRing/followers.svg)](http://qiita.com/RedRing)
