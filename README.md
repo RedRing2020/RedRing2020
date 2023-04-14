@@ -1,5 +1,5 @@
 ![My Profile views](https://komarev.com/ghpvc/?username=RedRing1979)
-[![My twitter](https://img.shields.io/twitter/follow/redring1979?style=social)](https://twitter.com/RedRing1979)
+[![My twitter](https://img.shields.io/twitter/follow/RedRing1979?label=Twitter&logo=twitter&style=flat)](https://twitter.com/RedRing1979)
 [![My github](https://img.shields.io/github/followers/RedRing1979?label=follow&logo=github&style=flat)](https://github.com/RedRing1979)
 [![My reddit](https://img.shields.io/reddit/user-karma/combined/RedRing1979?label=Reddit&logo=reddit&style=flat)](https://www.reddit.com/user/RedRing1979)
 [![My stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/18312637?label=StackOverflow&logo=stack-overflow&style=flat)](https://ja.stackoverflow.com/users/51688/redring)
