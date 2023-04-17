@@ -29,13 +29,6 @@ Hello there, I'm RedRing. ⭕
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RedRing1979&margin-w=0)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/redring1979/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=redring1979&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/redring1979/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redring1979" />
-</a>
-
 [<img align="left" alt="redring | Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/redring1979)
 <!-- [<img align="left" alt="redring | Youtube" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/*******************) -->
 [<img align="left" alt="redring | Qiita" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/qiita.svg" />](https://qiita.com/redring1979)
@@ -57,6 +50,15 @@ Hello there, I'm RedRing. ⭕
 [![](https://raw.githubusercontent.com/redring1979/redring1979/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/redring1979/redring1979/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/redring1979/redring1979/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/redring1979/redring1979/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<br>
+</br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=redring1979&count_private=true&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redring1979&theme=buefy" />
+</a>
+
 <!--
 **hrntsm/hrntsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -71,12 +73,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br>
-</br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=redring1979&count_private=true&show_icons=true&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redring1979&theme=buefy" />
-</a>
