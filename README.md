@@ -31,7 +31,7 @@ Hello there, I'm RedRing. ⭕
 
 [<img align="left" alt="redring | Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/redring2020/)
 <!-- [<img align="left" alt="redring | Youtube" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/*******************) -->
-[<img align="left" alt="redring | Qiita" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/qiita.svg" />](https://qiita.com/redring2020/)
+[<img align="left" alt="redring | Qiita" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/qiita.svg" />](https://qiita.com/redring/)
 [<img align="left" alt="redring | instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/instagram.svg" />](https://www.instagram.com/redringram/)
 [<img align="left" alt="redring | facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" />](https://www.facebook.com/redring2020/)
 
