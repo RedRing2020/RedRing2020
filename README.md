@@ -14,7 +14,7 @@
 ## 📊 Profile Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=redring2020)  
-![Metrics](https://metrics.lecoq.io/redring2020?template=classic&config.timezone=Asia%2FTokyo)
+![Metrics](https://metrics.lecoq.io/RedRing2020?template=classic&config.timezone=Asia%2FTokyo)
 
 ---
 
