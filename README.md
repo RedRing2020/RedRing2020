@@ -34,13 +34,24 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)  
-![C#](https://img.shields.io/badge/Code-C%23-239120?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)  
+<!-- Languages & Graphics -->
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
+![C#](https://img.shields.io/badge/Code-C%23-239120?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+![wgpu](https://img.shields.io/badge/Graphics-wgpu-informational?style=flat&logo=webgpu&logoColor=white&color=2bbc8a)
+![winit](https://img.shields.io/badge/Windowing-winit-informational?style=flat&logo=window&logoColor=white&color=2bbc8a)
+![WASM](https://img.shields.io/badge/Target-WebAssembly-informational?style=flat&logo=webassembly&logoColor=white&color=2bbc8a)
+
+<!-- IDE & Tools -->
 ![Visual Studio](https://img.shields.io/badge/Tools-Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
+![GitHub Projects](https://img.shields.io/badge/Management-GitHub%20Projects-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2bbc8a)
 
-※ Rust / WGPU / WASM などの技術バッジは次回追加予定です。
+<!-- Environment & Hardware -->
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![DAIV](https://img.shields.io/badge/Hardware-Mouse%20Computer%20DAIV-informational?style=flat&logo=computer&logoColor=white&color=2bbc8a)
 
 ---
 
