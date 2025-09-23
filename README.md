@@ -70,11 +70,11 @@ These tests ensure robustness, safety, and future-proofing for advanced modeling
 
 ### 🧩 Key Issues & Discussions
 
-- [#12](https://github.com/redring2020/cad-kernel/issues/12) — Direction2D integration and field access control  
-- [#27](https://github.com/redring2020/cad-kernel/issues/27) — Constraint test skeletons and extensibility design  
-- [#35](https://github.com/redring2020/cad-kernel/issues/35) — NURBS intersection edge cases and tolerance handling  
-- [#41](https://github.com/redring2020/cad-kernel/issues/41) — API surface audit for semantic correctness  
-- [#52](https://github.com/redring2020/cad-kernel/issues/52) — STEP compliance and future-proofing strategy
+- [#5](https://github.com/RedRing2020/RedRing/issues/5) — Structural Design of Primitive Geometry
+- [#12](https://github.com/RedRing2020/RedRing/issues/12) — Definition of the `Edge` Structure and Retention of Connectivity Information
+- [#19](https://github.com/RedRing2020/RedRing/issues/19) — Design of Sketch Features and Constraint System
+- [#26](https://github.com/RedRing2020/RedRing/issues/26) — Modeling History and Operation Logging
+- [#33](https://github.com/RedRing2020/RedRing/issues/33) — Introduction of Geometric Intersections and Boolean Operations
 
 ---
 
