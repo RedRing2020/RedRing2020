@@ -80,32 +80,49 @@ These tests ensure robustness, safety, and future-proofing for advanced modeling
 
 ## 📈 GitHub Summary Cards
 
-| ![Profile Details](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/0-profile-details.svg) | ![Repos per Language](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/1-repos-per-language.svg) |
-| --- | --- |
-| ![Most Commit Language](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/2-most-commit-language.svg) | ![Stats](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/3-stats.svg) |
-| ![Productive Time](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/4-productive-time.svg) |  |
+![Profile Details](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/0-profile-details.svg)
+
+![Repos per Language](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/1-repos-per-language.svg)
+![Most Commit Language](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/2-most-commit-language.svg)
+
+![Stats](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/3-stats.svg)
+![Productive Time](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/4-productive-time.svg)
 
 ---
 
 ## 📊 GitHub Readme Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redring2020&count_private=true&show_icons=true&theme=buefy) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redring2020&theme=buefy) |
-| --- | --- |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redring2020&count_private=true&show_icons=true&theme=buefy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redring2020&theme=buefy)
 
 ---
 
 ## 🧠 Community Presence
 
-| [![Qiita Posts](https://qiita-badge.apiapi.app/s/RedRing/posts.svg)](http://qiita.com/RedRing) | [![Qiita Contributions](https://qiita-badge.apiapi.app/s/RedRing/contributions.svg)](http://qiita.com/RedRing) | [![Qiita Followers](https://qiita-badge.apiapi.app/s/RedRing/followers.svg)](http://qiita.com/RedRing) |
-| --- | --- | --- |
-| [![Reddit](https://img.shields.io/badge/Reddit-RedRing2020-orange?logo=reddit)](https://www.reddit.com/user/RedRing2020) | [![Stack Overflow](https://img.shields.io/badge/StackOverflow-redring-yellow?logo=stack-overflow)](https://ja.stackoverflow.com/users/51688/redring) |  |
+[![Qiita Posts](https://qiita-badge.apiapi.app/s/RedRing/posts.svg)](http://qiita.com/RedRing)
+[![Qiita Contributions](https://qiita-badge.apiapi.app/s/RedRing/contributions.svg)](http://qiita.com/RedRing)
+[![Qiita Followers](https://qiita-badge.apiapi.app/s/RedRing/followers.svg)](http://qiita.com/RedRing)
+
+[![Reddit](https://img.shields.io/badge/Reddit-RedRing2020-orange?logo=reddit)](https://www.reddit.com/user/RedRing2020)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-redring-yellow?logo=stack-overflow)](https://ja.stackoverflow.com/users/51688/redring)
 
 ---
 
 ## 🌐 Links & Sponsorship
 
-| [![Website](https://img.shields.io/badge/Website-redring.jp-0A0A0A?logo=google-chrome&logoColor=white)](http://redring.jp) | [![X](https://img.shields.io/badge/X-@redring2020-black?logo=x)](https://x.com/redring2020) | [![Qiita](https://img.shields.io/badge/Qiita-redring-green?logo=qiita)](https://qiita.com/redring) |
-| --- | --- | --- |
-| [![Instagram](https://img.shields.io/badge/Instagram-redringram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/redringram/) | [![Facebook](https://img.shields.io/badge/Facebook-redring2020-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/redring2020/) | [![Sponsor](https://img.shields.io/badge/Sponsor-RedRing2020-blue?logo=github)](https://github.com/sponsors/redring2020) |
+### 🖥️ Website
+
+[![Website](https://img.shields.io/badge/Website-redring.jp-0A0A0A?logo=google-chrome&logoColor=white)](http://redring.jp)
+
+### 📣 Social Media
+
+[![X](https://img.shields.io/badge/X-@redring2020-black?logo=x)](https://x.com/redring2020)
+[![Qiita](https://img.shields.io/badge/Qiita-redring-green?logo=qiita)](https://qiita.com/redring)
+[![Instagram](https://img.shields.io/badge/Instagram-redringram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/redringram/)
+[![Facebook](https://img.shields.io/badge/Facebook-redring2020-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/redring2020/)
+
+### 💰 Sponsorship
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-RedRing2020-blue?logo=github)](https://github.com/sponsors/redring2020)
 
 ---
