@@ -1,128 +1,81 @@
-# 👋 Hello, I'm RedRing ⭕  
-> CAD/CAM kernel architect based in Japan, building safe, high-performance modeling platforms in Rust.
+<div align="center">
+
+# ⭕ RedRing
+
+**CAD/CAM kernel developer from Tokyo, building a modeling & machining platform in Rust.**<br>
+東京を拠点に、Rust で CAD/CAM カーネルとソフトウェアを開発しています。
+
+[![Website](https://img.shields.io/badge/redring.jp-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://redring.jp/)
+[![Docs](https://img.shields.io/badge/Docs-GitHub_Pages-B7410E?style=flat-square&logo=mdbook&logoColor=white)](https://redring2020.github.io/RedRing/)
+[![X](https://img.shields.io/badge/@redring2020-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/redring2020)
+[![Qiita](https://img.shields.io/badge/Qiita-redring-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/redring)
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/RedRing2020)
+
+</div>
 
 ---
 
-## 🧩 Current Focus & Philosophy
+## 🔴 RedRing — Rust CAD/CAM research platform
 
-I'm currently developing a professional-grade **CAD kernel** and **CAD/CAM platform**, with a strong emphasis on:
+[**RedRing2020/RedRing**](https://github.com/RedRing2020/RedRing) is a standalone CAD/CAM environment built with **Rust + wgpu**.
 
-- 🛡️ **Safety-first architecture**: APIs are semantically correct, with explicit mutability and private field access.  
-- ⚡ **High-performance modeling**: Supporting high-degree NURBS, G² continuity, and robust geometric operations.  
-- 🦀 **Rust-powered development**: Leveraging Rust’s type system and ownership model for precision and reliability.  
-- 🧪 **Geometry test scaffolding**: Designing extensible test skeletons for intersection and constraint logic across primitives.
+**v0.1.0 (preview)** — import an STL, generate a 3-axis scanline toolpath, and verify it with a cutting simulation.
 
-This project aims to deliver a scalable, standards-compliant foundation for next-generation CAD/CAM applications.
+| | Status |
+|---|---|
+| 🎨 GPU rendering (wgpu / winit) | ✅ |
+| 📐 Foundation geometry & in-house NURBS curves / surfaces | ✅ |
+| 🔪 3-axis scanline toolpath — ball / flat end mill, inverse offset method | 🧪 preview |
+| ⚡ Cutting simulation — tri-dexel stock with animation | 🧪 preview |
+| 🗂️ Machining management (operations, jobs, tool library) | 🔜 v0.2.0 |
+| 🧾 Connecting moves & NC output | 🔜 v0.3.0 |
+| 💾 STEP / IGES, WebAssembly, SpaceMouse | 🗺️ planned |
 
----
+**Design principles:** type safety through ownership and traits · layered architecture (`foundation` → `model` → `viewmodel` → `view`) · modular crates for incremental growth.
 
-## 🧪 Geometry Test Skeletons
-
-Currently designing test scaffolding for:
-
-- 🔹 **Intersection logic**: Line–Line, Ray–Circle, NURBS–NURBS, with edge cases and tolerance handling.  
-- 🔹 **Constraint systems**: Parametric constraints, geometric dependencies, and solver-ready structuring.  
-- 🔹 **Extensibility**: Modular test definitions per primitive, with future support for 3D and hybrid constraints.
-
-These tests ensure robustness, safety, and future-proofing for advanced modeling operations.
+👉 [Issues](https://github.com/RedRing2020/RedRing/issues) · [Projects](https://github.com/RedRing2020/RedRing/projects) · [Design philosophy](https://github.com/RedRing2020/RedRing/blob/develop/manual/philosophy.md) · [日本語 README](https://github.com/RedRing2020/RedRing/blob/develop/README.jp.md)
 
 ---
 
-## 🏆 Achievements
+## 🛠️ Tech
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=RedRing2020&margin-w=0)](https://github.com/ryo-ma/github-profile-trophy)
+**Main:**
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![wgpu](https://img.shields.io/badge/wgpu-WebGPU-005A9C?style=flat-square&logo=webgpu&logoColor=white)
+![nalgebra](https://img.shields.io/badge/nalgebra-linear_algebra-4B8BBE?style=flat-square)
+![mdBook](https://img.shields.io/badge/mdBook-docs-B7410E?style=flat-square&logo=mdbook&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
-
-## 🛠️ Tech Stack
-
-### 🔤 Languages  
-![Rust](https://img.shields.io/badge/Rust-–-lightgrey?logo=rust)
-![C++](https://img.shields.io/badge/C++-–-lightgrey?logo=c%2B%2B)
-![C#](https://img.shields.io/badge/C%23-–-lightgrey?logo=csharp)
-![JavaScript](https://img.shields.io/badge/JavaScript-–-lightgrey?logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-–-lightgrey?logo=sqlite)
-
-### 🖼️ Graphics & Rendering  
-![WebGPU](https://img.shields.io/badge/WebGPU-–-lightgrey?logo=webgpu)
-![OpenGL](https://img.shields.io/badge/OpenGL-–-lightgrey?logo=opengl)
-
-### ⚙️ Tools & CI  
-![GitHub](https://img.shields.io/badge/GitHub-–-lightgrey?logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-–-lightgrey?logo=visualstudio)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-–-lightgrey?logo=visualstudio)
-
-### 💻 Environment & Libraries  
-![Windows](https://img.shields.io/badge/Windows-–-lightgrey?logo=windows)
-![jQuery](https://img.shields.io/badge/jQuery-–-lightgrey?logo=jquery)
+**Also:**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ---
 
-## 📌 Roadmap & Key Issues
+## 📈 Activity
 
-### 🔭 Development Roadmap
-
-- [ ] Refactor geometry primitives to enforce API safety and semantic correctness  
-- [ ] Implement constraint system scaffolding for parametric modeling  
-- [ ] Expand intersection logic to support NURBS and hybrid primitives  
-- [ ] Modularize 2D/3D geometry separation for future extensibility  
-- [ ] Integrate undo/redo architecture with traceable state transitions
-
-### 🧩 Key Issues & Discussions
-
-- [#5](https://github.com/RedRing2020/RedRing/issues/5) — Structural Design of Primitive Geometry
-- [#12](https://github.com/RedRing2020/RedRing/issues/12) — Definition of the `Edge` Structure and Retention of Connectivity Information
-- [#19](https://github.com/RedRing2020/RedRing/issues/19) — Design of Sketch Features and Constraint System
-- [#26](https://github.com/RedRing2020/RedRing/issues/26) — Modeling History and Operation Logging
-- [#33](https://github.com/RedRing2020/RedRing/issues/33) — Introduction of Geometric Intersections and Boolean Operations
+<p>
+  <img src="https://raw.githubusercontent.com/RedRing2020/RedRing2020/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile details" width="100%">
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/RedRing2020/RedRing2020/main/profile-summary-card-output/default/3-stats.svg" alt="Stats" width="49%">
+  <img src="https://raw.githubusercontent.com/RedRing2020/RedRing2020/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most commit language" width="49%">
+</p>
 
 ---
 
-## 📈 GitHub Summary Cards
+## 🌿 Elsewhere
 
-![Profile Details](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/0-profile-details.svg)
+- 🖥️ **[redring.jp](https://redring.jp/)** — project site
+- 🐠 **[oriva.jp](https://oriva.jp/)** — hobby site on aquariums & paludariums (field guide, layout gallery, blog) *— coming soon*
+- ✍️ [Qiita](https://qiita.com/redring) · [Stack Overflow (ja)](https://ja.stackoverflow.com/users/51688/redring) · [Reddit](https://www.reddit.com/user/RedRing2020) · [Instagram](https://www.instagram.com/redringram/) · [Facebook](https://www.facebook.com/redring2020/)
 
-![Repos per Language](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/1-repos-per-language.svg)
-![Most Commit Language](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/2-most-commit-language.svg)
-
-![Stats](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/3-stats.svg)
-![Productive Time](https://raw.githubusercontent.com/redring2020/redring2020/main/profile-summary-card-output/default/4-productive-time.svg)
-
----
-
-## 📊 GitHub Readme Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redring2020&count_private=true&show_icons=true&theme=buefy)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redring2020&theme=buefy)
-
----
-
-## 🧠 Community Presence
-
-[![Qiita Posts](https://qiita-badge.apiapi.app/s/RedRing/posts.svg)](http://qiita.com/RedRing)
-[![Qiita Contributions](https://qiita-badge.apiapi.app/s/RedRing/contributions.svg)](http://qiita.com/RedRing)
-[![Qiita Followers](https://qiita-badge.apiapi.app/s/RedRing/followers.svg)](http://qiita.com/RedRing)
-
-[![Reddit](https://img.shields.io/badge/Reddit-RedRing2020-orange?logo=reddit)](https://www.reddit.com/user/RedRing2020)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-redring-yellow?logo=stack-overflow)](https://ja.stackoverflow.com/users/51688/redring)
-
----
-
-## 🌐 Links & Sponsorship
-
-### 🖥️ Website
-
-[![Website](https://img.shields.io/badge/Website-redring.jp-0A0A0A?logo=google-chrome&logoColor=white)](http://redring.jp)
-
-### 📣 Social Media
-
-[![X](https://img.shields.io/badge/X-@redring2020-black?logo=x)](https://x.com/redring2020)
-[![Qiita](https://img.shields.io/badge/Qiita-redring-green?logo=qiita)](https://qiita.com/redring)
-[![Instagram](https://img.shields.io/badge/Instagram-redringram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/redringram/)
-[![Facebook](https://img.shields.io/badge/Facebook-redring2020-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/redring2020/)
-
-### 💰 Sponsorship
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-RedRing2020-blue?logo=github)](https://github.com/sponsors/redring2020)
-
----
+<div align="center"><sub>Building CAD/CAM, one crate at a time. 🦀</sub></div>
